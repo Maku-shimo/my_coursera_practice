@@ -3,17 +3,18 @@
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
 The assignment:
-1. The implementation of the page you will be creating should follow the mockup illustrations shown below. You are provided 3 mockups: desktop, tablet, and mobile. Your implementation has to be JUST 1 page, NOT 3 pages. In other words, you will be creating a single, responsive page.
+1. The implementation of the page should follow the mockup illustrations shown below: desktop, tablet, and mobile. The implementation has to be JUST 1 page, NOT 3 pages.
 
-2. Your page must include a CSS file. No inline styles allowed. Your CSS file should be placed into a `css` folder under the solution container folder, e.g., `module2-solution/css`.
+2. The page must include a CSS file. No inline styles allowed. The CSS file should be placed into a `css` folder under the solution container folder, e.g., `module2-solution/css`.
 
-3. You are NOT allowed to use any CSS (or Javascript) framework for this assignment, including Twitter Bootstrap CSS Framework. No framework CSS files should even be referenced in your index.html, even if you are not using them.
+3. NOT allowed to use any CSS (or Javascript) framework for this assignment, including Twitter Bootstrap CSS Framework. No framework CSS files should even be referenced in index.html.
 
-4. You must implement the following breakpoints that will be considered desktop, tablet, and mobile. The browser should display a desktop version of the site when the width of the browser window is 992px and above. Tablet view should appear only if the width of the browser window is between 768px and 991px, inclusively. Mobile view should appear only if the width of the browser is equal to or less than 767px.
+4. The browser should display a desktop version of the site when the width of the browser window is 992px and above. Tablet view should appear only if the width of the browser window is between 768px and 991px, inclusively. Mobile view should appear only if the width of the browser is equal to or less than 767px.
 
-5. Your site is very simple. It consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text. You can make it dummy text/"lorem ipsum", it doesn't matter. How the sections are laid out on the screen depends on the width of the browser window.
+5. The site consists of a page heading and 3 sections (all in one row in the desktop view). Each section contains some text.
+Text doesn't matter. How the sections are laid out on the screen depends on the width of the browser window.
 
-6. Layout: In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen. As you make the browser window wider or narrower, each section should become wider or narrower. For a visual reference of this view, see the desktop mockup illustration below.
+6. Layout: In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen. As one makes the browser window wider or narrower, each section should become wider or narrower. For a visual reference of this view, see the desktop mockup illustration below.
 
 7. Layout: In the tablet view (between 768px and 991px, inclusively), the first 2 sections should be in the first row and be of equal size. The 3rd section should be in the second row and take up the entire row by itself. For a visual reference of this view, see the tablet mockup illustration below.
 
@@ -25,16 +26,16 @@ The assignment:
 
 11. Borders and Colors: Each section should have a background color set to some color (of your choosing). Set the background color of each section title region to some unique color (of your choosing). Make sure that the background color still allows the user to view the text in the section and section title regions. Depending on the color you choose, you may want to change the color of the text so it can be easy to read. Set a black border on both the section and section title region that is 1px thick.
 
-12. (OPTIONAL) _You will NOT be graded on this_, but you may want to explicitly set a font-family for the text in your page, so you are not stuck with the default browser font family. Also, set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text.
+12. you may want to explicitly set a font-family for the text in your page, so you are not stuck with the default browser font family. Also, set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text.
 
-Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
+Here is the mockup illustration of the desktop version of the site. Final result should look very close to this mockup.
 
  ![desktop](images/desktop.png)
 
-Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
+Here is the mockup illustration of the tablet version of the site. Final result should look very close to this mockup.
 
  ![tablet](images/tablet.png)
 
-Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
+Here is the mockup illustration of the mobile version of the site. Final result should look very close to this mockup.
 
  ![mobile](images/mobile.png)
